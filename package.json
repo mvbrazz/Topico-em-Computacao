@@ -1,0 +1,14 @@
+{
+  "name": "topico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pi.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.2.4"
+  }
+}
